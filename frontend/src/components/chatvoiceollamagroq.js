@@ -11,7 +11,7 @@ import {
 const Groq = require("groq-sdk");
 const groq = new Groq({
   dangerouslyAllowBrowser: true,
-  apiKey: "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",
+  apiKey: "",
 });
 
 export const Chatvoiceollamagroq = () => {

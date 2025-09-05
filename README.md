@@ -42,6 +42,7 @@ npm install
 ### Step 3: Run the program
 
 cd frontend
+
 npm start
 
 

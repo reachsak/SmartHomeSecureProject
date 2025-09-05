@@ -6,7 +6,10 @@ To be added
 
 
 ## Video Demo
-<a href="https://youtu.be/rBFdG_s5CAk" target="_blank">
+
+[![SmartHomeSecureProject Demo](https://img.youtube.com/vi/rBFdG_s5CAk/0.jpg)](https://youtu.be/rBFdG_s5CAk)
+
+This thumbnail links to the YouTube demo video—click to watch!
 
 ## 🛠️ Detailed Setup Guide
 
